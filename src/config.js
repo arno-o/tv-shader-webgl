@@ -1,3 +1,5 @@
+import tvModel from 'public/models/tv.glb';
+
 export const CONFIG = {
 	camera: {
 		fov: 80,
@@ -75,7 +77,7 @@ export const CONFIG = {
 	},
 
 	models: {
-		tv: '/models/tv.glb'
+		tv: tvModel
 	},
 
 	dial: {
