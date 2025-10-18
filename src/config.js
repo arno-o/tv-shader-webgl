@@ -75,7 +75,7 @@ export const CONFIG = {
 	},
 
 	models: {
-		tv: '/models/tv.glb'
+		tv: '/tv-shader-webgl/models/tv.glb'
 	},
 
 	dial: {

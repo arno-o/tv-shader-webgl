@@ -1,3 +1,4 @@
+import './style.css';
 import { Menu } from './ui/Menu.js';
 import { Dial } from './ui/Dial.js';
 import { InfoText } from './ui/InfoText.js';
